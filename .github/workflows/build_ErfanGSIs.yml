@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/9.9.26/miui_HM4X_9.9.26_b561a83be6_7.1.zip
+  ROM_URL: https://bigota.d.miui.com/9.8.29/miui_HM4X_9.8.29_72dee00fc2_7.1.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
